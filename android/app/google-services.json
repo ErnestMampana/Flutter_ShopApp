@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "75457579330",
+    "firebase_url": "https://flutter-shop-57038-default-rtdb.firebaseio.com",
+    "project_id": "flutter-shop-57038",
+    "storage_bucket": "flutter-shop-57038.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75457579330:android:0af0e600e0bb92947220db",
+        "android_client_info": {
+          "package_name": "com.ernest.dev.shop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75457579330-uma7glfv6968s3o7ojr4n62g55l446nq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxaPkY_XsuMZDjIw8ObTRmqOqtmFDJUXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75457579330-uma7glfv6968s3o7ojr4n62g55l446nq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
